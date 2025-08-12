@@ -33,8 +33,8 @@
 - 🚀 Building high-performance applications
 
 ## 📫 Contact
-- 📧 Email: [nguyenducthuydl02@gmail.com]
-- 💼 LinkedIn: [(https://www.linkedin.com/in/duc-thuy-nguyen-a89055250)]
+- 📧 Email: nguyenducthuydl02@gmail.com
+- 💼 LinkedIn: [[Duc Thuy](https://www.linkedin.com/in/duc-thuy-nguyen-a89055250)]
 - 💻 GitHub: [@riold02](https://github.com/riold02)
 
 ---
