@@ -12,17 +12,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Programming Languages
-- **C#** - Desktop applications
-- **JavaScript** - Web development
-- **C++** - High-performance AI applications
-- **Java** - Enterprise AI solutions
-
-### AI Tools
-- GitHub Copilot
-- Cursor
-
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riold02&show_icons=true&theme=radical)
