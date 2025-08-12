@@ -16,15 +16,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riold02&show_icons=true&theme=radical)
 
-## 🎯 Goals
-- 🌱 Learning C++ & Java for AI development
-- 🤖 Exploring AI coding tools
-- 🚀 Building high-performance applications
 
 ## 📫 Contact
 - 📧 Email: nguyenducthuydl02@gmail.com
 - 💼 LinkedIn: [[Duc Thuy](https://www.linkedin.com/in/duc-thuy-nguyen-a89055250)]
 - 💻 GitHub: [@riold02](https://github.com/riold02)
 
----
-⭐️ From [riold02](https://github.com/riold02)
